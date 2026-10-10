@@ -1,6 +1,7 @@
 target
-.env
 # Local sqlite dev database
 *.db
 *.db-shm
 *.db-wal
+config.bat
+node_modules
